@@ -4,7 +4,7 @@ output: html_document
 ------------------------------------
 # 1. Code for reading in the dataset and/or processing the data
 
-### Load packages
+### Load packages...
 ```{r}
 
 library("data.table")
